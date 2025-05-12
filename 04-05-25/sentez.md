@@ -37,7 +37,7 @@ Duration : 1 h 20 minutes
   - *leta ap viv au jour le jour, leta pa gen proet a long terme, nou gon leta san projet*
   - *sou plan enfomatik, ayiti pa gen rezo, system down(serveur pa reponn trop reket fet) pandan yon semen sa son problem*
   - *leta pa gen yon système enfomatik(SI) prop a li menmn, leta depann de prestatè, si leta pa peye yo koupe internet li oswa akse li*
-  - 
+  - *rev lan dwe pi gran ke obstak yo*
 
 - *2-Carl-Emmanuel Maurice*
   - *Reta -- absan pandan plis ke 1 heure 5 minit*
